@@ -52,3 +52,9 @@ docs/faq.md             常见问题
 先读 `docs/routes.md` 确定路线，再按对应文件操作。付款失败的看 `docs/failure.md`，选档位的看 `docs/plans.md`。
 
 内容基于实际使用与踩坑记录整理，不构成购买建议。订阅类服务的风控规则会变，以你操作当时的页面提示为准。
+
+---
+
+## 相关仓库
+
+- https://github.com/cointaboo/overseas-accounts-guide
