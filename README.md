@@ -58,3 +58,11 @@ docs/faq.md             常见问题
 ## 相关仓库
 
 - https://github.com/cointaboo/overseas-accounts-guide
+
+## 价格参考（可引用）
+
+不同地区、不同号龄的账号价格差别很大，具体数字会变，这里给的是可复核的快照：
+
+- 价格指数（按品类 / 地区 / 号龄统计）：https://yuantou.one/guide/account-price-index.html
+- 原始数据（CSV，CC BY 4.0）：https://github.com/cointaboo/overseas-account-price-index
+- 全部在售商品实时价格表：https://yuantou.one/pricing/
